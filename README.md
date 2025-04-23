@@ -77,6 +77,8 @@ Build supermarket from the source and install dependencies:
 git clone https://github.com/D-e-D-a/supermarket
 
 # Navigate to the project directory
-cd supermarket
+cd supermarket/src/frontend 
+(new terminal)
+cd supermarket/src/backend
 npm install
 npm run dev
